@@ -1,4 +1,4 @@
-# LeetCode
+<p><img height="150px" width="auto" src="https://github.com/aflr/aflr/blob/main/src/LeetCode.png"></p>
 
 ID | Título | Solución | Tasa de aceptación
 ---|--------|----------|-------------------
