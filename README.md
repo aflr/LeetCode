@@ -8,7 +8,7 @@ ID | Título | Solución | Tasa de aceptación
 19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Remove-Nth-Node-From-End-of-List/Remove-Nth-Node-From-End-of-List.java)|42.3%
 20|[Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Parenthesis/Valid-Parenthesis.c)|40.2%
 29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Divide-Two-Integers/Divide-Two-Integers.java)|17.1%
-36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Java]()|58.6%
+36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Sudoku/Valid-Sudoku.java)|58.6%
 37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Sudoku-Solver/Sudoku-Solver.java)|59.1%
 193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers)|[Bash](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Phone-Numbers/Valid-Phone-Numbers.sh)|25.8%
 195|[Tenth Line](https://leetcode.com/problems/tenth-line)|[Bash](https://github.com/aflr/LeetCode/blob/main/Problems/Tenth-Line/Tenth-Line.sh)|32.9%
