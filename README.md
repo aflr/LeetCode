@@ -18,6 +18,7 @@ ID | Título | Solución | Tasa de aceptación
 100|[Same Tree](https://leetcode.com/problems/same-tree)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Same-Tree/Same-Tree.c)|59.4%
 104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Maximum-Depth-of-Binary-Tree/Maximum-Depth-of-Binary-Tree.c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Maximum-Depth-of-Binary-Tree/Maximum-Depth-of-Binary-Tree.java)|74.4%
 141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Linked-List-Cycle/Linked-List-Cycle.c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Linked-List-Cycle/Linked-List-Cycle.java)|48.6%
+155|[Min Stack](https://leetcode.com/problems/min-stack)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Min-Stack/Min-Stack.java)|52.9%
 189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Rotate-Array/Rotate-Array.c)|39.8%
 193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers)|[Bash](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Phone-Numbers/Valid-Phone-Numbers.sh)|25.8%
 195|[Tenth Line](https://leetcode.com/problems/tenth-line)|[Bash](https://github.com/aflr/LeetCode/blob/main/Problems/Tenth-Line/Tenth-Line.sh)|32.9%
