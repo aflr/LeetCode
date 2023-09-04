@@ -12,7 +12,7 @@ ID | Título | Solución | Tasa de aceptación
 29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Divide-Two-Integers/Divide-Two-Integers.java)|17.1%
 36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Sudoku/Valid-Sudoku.java)|58.6%
 37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Sudoku-Solver/Sudoku-Solver.java)|59.1%
-141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Linked-List-Cycle/Linked-List-Cycle.java)|48.6%
+141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Linked-List-Cycle/Linked-List-Cycle.c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Linked-List-Cycle/Linked-List-Cycle.java)|48.6%
 193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers)|[Bash](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Phone-Numbers/Valid-Phone-Numbers.sh)|25.8%
 195|[Tenth Line](https://leetcode.com/problems/tenth-line)|[Bash](https://github.com/aflr/LeetCode/blob/main/Problems/Tenth-Line/Tenth-Line.sh)|32.9%
 242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Anagram/Valid-Anagram.java)|63.2%
