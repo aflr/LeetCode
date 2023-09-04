@@ -26,6 +26,7 @@ ID | Título | Solución | Tasa de aceptación
 217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Contains-Duplicate/Contains-Duplicate.java)|61.0%
 242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Anagram/Valid-Anagram.java)|63.2%
 338|[Counting Bits](https://leetcode.com/problems/counting-bits)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Counting-Bits/Counting-Bits.c)|77.4%
+1148|[Article Views I](https://leetcode.com/problems/article-views-i)|[PL/SQL](https://github.com/aflr/LeetCode/blob/main/Problems/Article-Views-I/Article-Views-I.pls)|74.8%
 2452|[Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Words-Within-Two-Edits-of-Dictionary/Words-Within-Two-Edits-of-Dictionary.java)|60.3%
 2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Convert-the-Temperature/Convert-the-Temperature.java)|88.7%
 2591|[Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Distribute-Money-to-Maximum-Children/Distribute-Money-to-Maximum-Children.java)|18.7%
