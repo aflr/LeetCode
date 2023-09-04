@@ -13,6 +13,7 @@ ID | Título | Solución | Tasa de aceptación
 36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Sudoku/Valid-Sudoku.java)|58.6%
 37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Sudoku-Solver/Sudoku-Solver.java)|59.1%
 50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Pow(x%2Cn)/Pow(x%2Cn).c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Pow(x%2Cn)/Pow(x%2Cn).java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Pow(x%2Cn)/Pow(x%2Cn).js)|34.0%
+69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Sqrt(x)/Sqrt(x).java)|37.8%
 141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Linked-List-Cycle/Linked-List-Cycle.c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Linked-List-Cycle/Linked-List-Cycle.java)|48.6%
 193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers)|[Bash](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Phone-Numbers/Valid-Phone-Numbers.sh)|25.8%
 195|[Tenth Line](https://leetcode.com/problems/tenth-line)|[Bash](https://github.com/aflr/LeetCode/blob/main/Problems/Tenth-Line/Tenth-Line.sh)|32.9%
