@@ -28,6 +28,7 @@ ID | Título | Solución | Tasa de aceptación
 206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Reverse-Linked-List/Reverse-Linked-List.c)|74.6%
 215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Kth-Largest-Element-in-an-Array/Kth-Largest-Element-in-an-Array.java)|67.2%
 217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Contains-Duplicate/Contains-Duplicate.java)|61.0%
+231|[Power of Two](https://leetcode.com/problems/power-of-two)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Power-of-Two/Power-of-Two.c)|46.3%
 242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Anagram/Valid-Anagram.java)|63.2%
 338|[Counting Bits](https://leetcode.com/problems/counting-bits)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Counting-Bits/Counting-Bits.c)|77.4%
 1148|[Article Views I](https://leetcode.com/problems/article-views-i)|[PL/SQL](https://github.com/aflr/LeetCode/blob/main/Problems/Article-Views-I/Article-Views-I.pls)|74.8%
