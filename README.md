@@ -16,6 +16,7 @@ ID | Título | Solución | Tasa de aceptación
 37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Sudoku-Solver/Sudoku-Solver.java)|59.1%
 50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Pow(x%2Cn)/Pow(x%2Cn).c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Pow(x%2Cn)/Pow(x%2Cn).java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Pow(x%2Cn)/Pow(x%2Cn).js)|34.0%
 66|[Plus One](https://leetcode.com/problems/plus-one)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Plus-One/Plus-One.java)|44.1%
+67|[Add Binary](https://leetcode.com/problems/add-binary)|[Python3](https://github.com/aflr/LeetCode/blob/main/Problems/Add-Binary/Add-Binary.py)|52.6%
 69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Sqrt(x)/Sqrt(x).java)|37.8%
 100|[Same Tree](https://leetcode.com/problems/same-tree)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Same-Tree/Same-Tree.c)|59.4%
 104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Maximum-Depth-of-Binary-Tree/Maximum-Depth-of-Binary-Tree.c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Maximum-Depth-of-Binary-Tree/Maximum-Depth-of-Binary-Tree.java)|74.4%
