@@ -23,6 +23,7 @@ ID | Título | Solución | Tasa de aceptación
 189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Rotate-Array/Rotate-Array.c)|39.8%
 193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers)|[Bash](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Phone-Numbers/Valid-Phone-Numbers.sh)|25.8%
 195|[Tenth Line](https://leetcode.com/problems/tenth-line)|[Bash](https://github.com/aflr/LeetCode/blob/main/Problems/Tenth-Line/Tenth-Line.sh)|32.9%
+206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Reverse-Linked-List/Reverse-Linked-List.c)|74.6%
 215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Kth-Largest-Element-in-an-Array/Kth-Largest-Element-in-an-Array.java)|67.2%
 217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Contains-Duplicate/Contains-Duplicate.java)|61.0%
 242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Anagram/Valid-Anagram.java)|63.2%
