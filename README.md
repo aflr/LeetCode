@@ -36,6 +36,7 @@ ID | Título | Solución | Tasa de aceptación
 242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Anagram/Valid-Anagram.java)|63.2%
 338|[Counting Bits](https://leetcode.com/problems/counting-bits)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Counting-Bits/Counting-Bits.c)|77.4%
 344|[Reverse String](https://leetcode.com/problems/reverse-string)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Reverse-String/Reverse-String.js)|77.2%
+856|[Score of Parenthesis](https://leetcode.com/problems/score-of-parentheses)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Score-of-Parenthesis/Score-of-Parenthesis.java)|64.4%
 876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Middle-of-the-Linked-List/Middle-of-the-Linked-List.c)|76.5%
 1148|[Article Views I](https://leetcode.com/problems/article-views-i)|[PL/SQL](https://github.com/aflr/LeetCode/blob/main/Problems/Article-Views-I/Article-Views-I.pls)|74.8%
 2452|[Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Words-Within-Two-Edits-of-Dictionary/Words-Within-Two-Edits-of-Dictionary.java)|60.3%
