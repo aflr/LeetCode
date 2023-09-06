@@ -46,3 +46,4 @@ ID | Título | Solución | Tasa de aceptación
 2620|[Counter](https://leetcode.com/problems/counter)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Counter/Counter.js)|80.3%
 2621|[Sleep](https://leetcode.com/problems/sleep)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Sleep/Sleep.js)|85.1%
 2828|[Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Check-if-a-String-Is-an-Acronym-of-Words/Check-if-a-String-Is-an-Acronym-of-Words.js)|83.3%
+2833|[Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Furthest-Point-From-Origin/Furthest-Point-From-Origin.java)|61.9%
