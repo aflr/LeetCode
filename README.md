@@ -42,5 +42,6 @@ ID | Título | Solución | Tasa de aceptación
 2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Convert-the-Temperature/Convert-the-Temperature.java)|88.7%
 2591|[Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Distribute-Money-to-Maximum-Children/Distribute-Money-to-Maximum-Children.java)|18.7%
 2618|[Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Check-if-Object-Instance-of-Class/Check-if-Object-Instance-of-Class.js)|29.2%
+2620|[Counter](https://leetcode.com/problems/counter)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Counter/Counter.js)|80.3%
 2621|[Sleep](https://leetcode.com/problems/sleep)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Sleep/Sleep.js)|85.1%
 2828|[Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Check-if-a-String-Is-an-Acronym-of-Words/Check-if-a-String-Is-an-Acronym-of-Words.js)|83.3%
