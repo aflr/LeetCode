@@ -1,5 +1,13 @@
 <p><img height="150px" width="auto" src="https://github.com/aflr/aflr/blob/main/src/LeetCode.png"></p>
 
+<br>
+
+🚀 Problemas de [LeetCode](https://leetcode.com/) resueltos para ganar experiencia en lenguajes como JavaScript, C, Java, PL/SQL, y afianzar el conocimiento de estructuras de datos y técnicas de programación como Array, Linked List, Binary Search, Backtracking, Stack, Tree, DFS, BFS, Graph, Trie, Recursion, Queue, Sliding Window, etc.
+
+![](https://img.shields.io/github/languages/count/aflr/LeetCode?label=Languages)
+
+<br>
+
 ID | Título | Solución | Tasa de aceptación
 ---|--------|----------|-------------------
 1|[Two Sum](https://leetcode.com/problems/two-sum)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Two-Sum/Two-Sum.c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Two-Sum/Two-Sum.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Two-Sum/Two-Sum.js)|50.5%
