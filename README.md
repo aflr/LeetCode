@@ -26,7 +26,7 @@ ID | Título | Solución | Tasa de aceptación
 29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Divide-Two-Integers/Divide-Two-Integers.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Divide-Two-Integers/Divide-Two-Integers.js)|17.1%
 36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Sudoku/Valid-Sudoku.java)|58.6%
 37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Sudoku-Solver/Sudoku-Solver.java)|59.1%
-48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Rotate-Image/Rotate-Image.c)|72.4%
+48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Rotate-Image/Rotate-Image.c), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Rotate-Image/Rotate-Image.js)|72.4%
 50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Pow(x%2Cn)/Pow(x%2Cn).c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Pow(x%2Cn)/Pow(x%2Cn).java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Pow(x%2Cn)/Pow(x%2Cn).js)|34.0%
 66|[Plus One](https://leetcode.com/problems/plus-one)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Plus-One/Plus-One.java)|44.1%
 67|[Add Binary](https://leetcode.com/problems/add-binary)|[Python3](https://github.com/aflr/LeetCode/blob/main/Problems/Add-Binary/Add-Binary.py)|52.6%
