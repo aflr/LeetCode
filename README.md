@@ -32,6 +32,7 @@ ID | Título | Solución | Tasa de aceptación
 69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Sqrt(x)/Sqrt(x).java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Sqrt(x)/Sqrt(x).js)|37.8%
 100|[Same Tree](https://leetcode.com/problems/same-tree)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Same-Tree/Same-Tree.c)|59.4%
 104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Maximum-Depth-of-Binary-Tree/Maximum-Depth-of-Binary-Tree.c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Maximum-Depth-of-Binary-Tree/Maximum-Depth-of-Binary-Tree.java)|74.4%
+118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Pascals-Triangle/Pascals-Triangle.java)|72.5%
 141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Linked-List-Cycle/Linked-List-Cycle.c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Linked-List-Cycle/Linked-List-Cycle.java)|48.6%
 155|[Min Stack](https://leetcode.com/problems/min-stack)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Min-Stack/Min-Stack.java)|52.9%
 176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary)|[PL/SQL](https://github.com/aflr/LeetCode/blob/main/Problems/Second-Highest-Salary/Second-Highest-Salary.pls)|38.8%
