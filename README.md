@@ -4,7 +4,9 @@
 
 🚀 Problemas de [LeetCode](https://leetcode.com/) resueltos para ganar experiencia en lenguajes como JavaScript, C, Java, PL/SQL, y afianzar el conocimiento de estructuras de datos y técnicas de programación como Array, Linked List, Binary Search, Backtracking, Stack, Tree, DFS, BFS, Graph, Trie, Recursion, Queue, Sliding Window, etc.
 
-![](https://img.shields.io/github/languages/count/aflr/LeetCode?label=Languages)
+<br>
+
+![](https://img.shields.io/github/directory-file-count/aflr/LeetCode/Problems?label=Problems&color=gold) ![](https://img.shields.io/github/languages/count/aflr/LeetCode?label=Languages)
 
 <br>
 
