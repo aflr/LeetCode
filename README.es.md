@@ -2,7 +2,7 @@
 
 <br>
 
-🚀 Problems from [LeetCode](https://leetcode.com/) solved in order to gain experience in languages such as JavaScript, C, Java, PL/SQL, and to consolidate my knowledge of data structures and programming techniques such as Array, Linked List, Binary Search, Backtracking, Stack, Tree, DFS, BFS, Graph, Trie, Recursion, Queue, Sliding Window, etc.
+🚀 Problemas de [LeetCode](https://leetcode.com/) resueltos para ganar experiencia en lenguajes como JavaScript, C, Java, PL/SQL, y afianzar el conocimiento de estructuras de datos y técnicas de programación como Array, Linked List, Binary Search, Backtracking, Stack, Tree, DFS, BFS, Graph, Trie, Recursion, Queue, Sliding Window, etc.
 
 <br>
 
