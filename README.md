@@ -1,4 +1,4 @@
-<p><img height="150px" width="auto" src="https://github.com/aflr/aflr/blob/main/src/LeetCode.png"></p>
+<p><a href="https://leetcode.com/"><img height="150px" width="auto" src="https://github.com/aflr/aflr/blob/main/src/LeetCode.png"></a></p>
 
 <br>
 
