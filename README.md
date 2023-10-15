@@ -10,7 +10,7 @@
 
 <br>
 
-ID | Título | Solución | Tasa de aceptación
+ID | Title | Solution | Acceptance rate
 ---|--------|----------|-------------------
 1|[Two Sum](https://leetcode.com/problems/two-sum)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Two-Sum/Two-Sum.c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Two-Sum/Two-Sum.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Two-Sum/Two-Sum.js)|50.5%
 7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Reverse-Integer/Reverse-Integer.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Reverse-Integer/Reverse-Integer.js)|27.8%
