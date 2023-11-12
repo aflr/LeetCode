@@ -67,7 +67,7 @@ ID | Title | Solution | Acceptance rate
 2618|[Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Check-if-Object-Instance-of-Class/Check-if-Object-Instance-of-Class.js)|29.2%
 2620|[Counter](https://leetcode.com/problems/counter)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Counter/Counter.js)|80.3%
 2621|[Sleep](https://leetcode.com/problems/sleep)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Sleep/Sleep.js)|85.1%
-2703|[Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)|[JavaScript]()|92.7%
+2703|[Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Return-Length-of-Arguments-Passed/Return-Length-of-Arguments-Passed.js)|92.7%
 2723|[Add Two Promises](https://leetcode.com/problems/add-two-promises)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Add-Two-Promises/Add-Two-Promises.js)|90.1%
 2816|[Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Double-a-Number-Represented-as-a-Linked-List/Double-a-Number-Represented-as-a-Linked-List.c)|47.6%
 2828|[Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Check-if-a-String-Is-an-Acronym-of-Words/Check-if-a-String-Is-an-Acronym-of-Words.js)|83.3%
