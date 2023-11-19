@@ -10,7 +10,7 @@
 
 <br>
 
-ID | Título | Solución | Tasa de aceptación
+ID | Title | Solution | Acceptance rate
 ---|--------|----------|-------------------
 1|[Two Sum](https://leetcode.com/problems/two-sum)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Two-Sum/Two-Sum.c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Two-Sum/Two-Sum.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Two-Sum/Two-Sum.js)|50.5%
 7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Reverse-Integer/Reverse-Integer.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Reverse-Integer/Reverse-Integer.js)|27.8%
@@ -27,6 +27,7 @@ ID | Título | Solución | Tasa de aceptación
 29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Divide-Two-Integers/Divide-Two-Integers.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Divide-Two-Integers/Divide-Two-Integers.js)|17.1%
 36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Sudoku/Valid-Sudoku.java)|58.6%
 37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Sudoku-Solver/Sudoku-Solver.java)|59.1%
+42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Trapping-Rain-Water/Trapping-Rain-Water.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Trapping-Rain-Water/Trapping-Rain-Water.js)|60.2%
 48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Rotate-Image/Rotate-Image.c), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Rotate-Image/Rotate-Image.js)|72.4%
 50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Pow(x%2Cn)/Pow(x%2Cn).c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Pow(x%2Cn)/Pow(x%2Cn).java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Pow(x%2Cn)/Pow(x%2Cn).js)|34.0%
 52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/N-Queens-II/N-Queens-II.c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/N-Queens-II/N-Queens-II.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/N-Queens-II/N-Queens-II.js)|72.5%
@@ -67,6 +68,8 @@ ID | Título | Solución | Tasa de aceptación
 2618|[Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Check-if-Object-Instance-of-Class/Check-if-Object-Instance-of-Class.js)|29.2%
 2620|[Counter](https://leetcode.com/problems/counter)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Counter/Counter.js)|80.3%
 2621|[Sleep](https://leetcode.com/problems/sleep)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Sleep/Sleep.js)|85.1%
+2703|[Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Return-Length-of-Arguments-Passed/Return-Length-of-Arguments-Passed.js)|92.7%
+2715|[Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Timeout-Cancellation/Timeout-Cancellation.js)|87.1%
 2723|[Add Two Promises](https://leetcode.com/problems/add-two-promises)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Add-Two-Promises/Add-Two-Promises.js)|90.1%
 2816|[Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Double-a-Number-Represented-as-a-Linked-List/Double-a-Number-Represented-as-a-Linked-List.c)|47.6%
 2828|[Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Check-if-a-String-Is-an-Acronym-of-Words/Check-if-a-String-Is-an-Acronym-of-Words.js)|83.3%
