@@ -60,6 +60,7 @@ ID | Título | Solución | Tasa de aceptación
 338|[Counting Bits](https://leetcode.com/problems/counting-bits)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Counting-Bits/Counting-Bits.c)|77.4%
 344|[Reverse String](https://leetcode.com/problems/reverse-string)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Reverse-String/Reverse-String.js)|77.2%
 383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Ransom-Note/Ransom-Note.js)|59.3%
+661|[Image Smoother](https://leetcode.com/problems/image-smoother)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Image-Smoother/Image-Smoother.js)|66.8%
 674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Longest-Continuous-Increasing-Subsequence/Longest-Continuous-Increasing-Subsequence.js)|49.7%
 856|[Score of Parenthesis](https://leetcode.com/problems/score-of-parentheses)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Score-of-Parenthesis/Score-of-Parenthesis.java)|64.4%
 876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Middle-of-the-Linked-List/Middle-of-the-Linked-List.c)|76.5%
