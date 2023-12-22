@@ -13,6 +13,7 @@
 ID | Título | Solución | Tasa de aceptación
 ---|--------|----------|-------------------
 1|[Two Sum](https://leetcode.com/problems/two-sum)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Two-Sum/Two-Sum.c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Two-Sum/Two-Sum.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Two-Sum/Two-Sum.js)|50.5%
+2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Add-Two-Numbers/Add-Two-Numbers.c)|41.8%
 7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Reverse-Integer/Reverse-Integer.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Reverse-Integer/Reverse-Integer.js)|27.8%
 8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/String-to-Integer-(atoi)/String-to-Integer-(atoi).c), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/String-to-Integer-(atoi)/String-to-Integer-(atoi).js)|16.7%
 9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Palindrome-Number/Palindrome-Number.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Palindrome-Number/Palindrome-Number.js)|54.3%
