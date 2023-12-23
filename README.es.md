@@ -72,6 +72,7 @@ ID | Título | Solución | Tasa de aceptación
 2618|[Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Check-if-Object-Instance-of-Class/Check-if-Object-Instance-of-Class.js)|29.2%
 2620|[Counter](https://leetcode.com/problems/counter)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Counter/Counter.js)|80.3%
 2621|[Sleep](https://leetcode.com/problems/sleep)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Sleep/Sleep.js)|85.1%
+2634|[Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Filter-Elements-from-Array/Filter-Elements-from-Array.js)|83.3%
 2703|[Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Return-Length-of-Arguments-Passed/Return-Length-of-Arguments-Passed.js)|92.7%
 2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Buy-Two-Chocolates/Buy-Two-Chocolates.js), [PHP](https://github.com/aflr/LeetCode/blob/main/Problems/Buy-Two-Chocolates/Buy-Two-Chocolates.php)|70.6%
 2715|[Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Timeout-Cancellation/Timeout-Cancellation.js)|87.1%
