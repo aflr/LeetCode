@@ -78,4 +78,5 @@ ID | Título | Solución | Tasa de aceptación
 2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Buy-Two-Chocolates/Buy-Two-Chocolates.js), [PHP](https://github.com/aflr/LeetCode/blob/main/Problems/Buy-Two-Chocolates/Buy-Two-Chocolates.php)|70.6%
 2715|[Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Timeout-Cancellation/Timeout-Cancellation.js)|87.1%
 2723|[Add Two Promises](https://leetcode.com/problems/add-two-promises)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Add-Two-Promises/Add-Two-Promises.js)|90.1%
+2724|[Sort By](https://leetcode.com/problems/sort-by)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Sort-By/Sort-By.js)|81.6%
 2816|[Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Double-a-Number-Represented-as-a-Linked-List/Double-a-Number-Represented-as-a-Linked-List.c)|47.6%
