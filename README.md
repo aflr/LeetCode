@@ -61,7 +61,7 @@ ID | Title | Solution | Acceptance rate
 238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Product-of-Array-Except-Self/Product-of-Array-Except-Self.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Product-of-Array-Except-Self/Product-of-Array-Except-Self.js)|65.0%
 242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Anagram/Valid-Anagram.java)|63.2%
 300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Longest-Increasing-Subsequence/Longest-Increasing-Subsequence.js)|53.6%
-338|[Counting Bits](https://leetcode.com/problems/counting-bits)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Counting-Bits/Counting-Bits.c)|77.4%
+338|[Counting Bits](https://leetcode.com/problems/counting-bits)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Counting-Bits/Counting-Bits.c), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Counting-Bits/Counting-Bits.js)|77.4%
 344|[Reverse String](https://leetcode.com/problems/reverse-string)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Reverse-String/Reverse-String.js)|77.2%
 383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Ransom-Note/Ransom-Note.js)|59.3%
 661|[Image Smoother](https://leetcode.com/problems/image-smoother)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Image-Smoother/Image-Smoother.js)|66.8%
