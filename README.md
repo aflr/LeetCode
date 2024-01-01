@@ -62,6 +62,7 @@ ID | Title | Solution | Acceptance rate
 176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary)|[PL/SQL](https://github.com/aflr/LeetCode/blob/main/Problems/Second-Highest-Salary/Second-Highest-Salary.pls)|38.8%
 189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Rotate-Array/Rotate-Array.c)|39.8%
 193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers)|[Bash](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Phone-Numbers/Valid-Phone-Numbers.sh)|25.8%
+194|[Transpose File](https://leetcode.com/problems/transpose-file)|[Bash](https://github.com/aflr/LeetCode/blob/main/Problems/Transpose-File/Transpose-File.sh)|25.7%
 195|[Tenth Line](https://leetcode.com/problems/tenth-line)|[Bash](https://github.com/aflr/LeetCode/blob/main/Problems/Tenth-Line/Tenth-Line.sh)|32.9%
 200|[Number of Islands](https://leetcode.com/problems/number-of-islands)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Number-of-Islands/Number-of-Islands.java)|57.7%
 206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Reverse-Linked-List/Reverse-Linked-List.c)|74.6%
