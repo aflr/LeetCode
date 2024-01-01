@@ -95,6 +95,7 @@ ID | Título | Solución | Tasa de aceptación
 2667|[Create Hello World Function](https://leetcode.com/problems/create-hello-world-function)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Create-Hello-World-Function/Create-Hello-World-Function.js)|80.2%
 2695|[Array Wrapper](https://leetcode.com/problems/array-wrapper)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Array-Wrapper/Array-Wrapper.js)|87.6%
 2703|[Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Return-Length-of-Arguments-Passed/Return-Length-of-Arguments-Passed.js)|92.7%
+2704|[To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/To-Be-Or-Not-To-Be/To-Be-Or-Not-To-Be.js)|61.5%
 2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Buy-Two-Chocolates/Buy-Two-Chocolates.js), [PHP](https://github.com/aflr/LeetCode/blob/main/Problems/Buy-Two-Chocolates/Buy-Two-Chocolates.php)|70.6%
 2715|[Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Timeout-Cancellation/Timeout-Cancellation.js)|87.1%
 2723|[Add Two Promises](https://leetcode.com/problems/add-two-promises)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Add-Two-Promises/Add-Two-Promises.js)|90.1%
