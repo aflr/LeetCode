@@ -91,6 +91,7 @@ ID | Título | Solución | Tasa de aceptación
 2620|[Counter](https://leetcode.com/problems/counter)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Counter/Counter.js)|80.3%
 2621|[Sleep](https://leetcode.com/problems/sleep)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Sleep/Sleep.js)|85.1%
 2634|[Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Filter-Elements-from-Array/Filter-Elements-from-Array.js)|83.3%
+2666|[Allow One Function Call](https://leetcode.com/problems/allow-one-function-call)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Allow-One-Function-Call/Allow-One-Function-Call.js)|86.0%
 2667|[Create Hello World Function](https://leetcode.com/problems/create-hello-world-function)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Create-Hello-World-Function/Create-Hello-World-Function.js)|80.2%
 2703|[Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Return-Length-of-Arguments-Passed/Return-Length-of-Arguments-Passed.js)|92.7%
 2706|[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Buy-Two-Chocolates/Buy-Two-Chocolates.js), [PHP](https://github.com/aflr/LeetCode/blob/main/Problems/Buy-Two-Chocolates/Buy-Two-Chocolates.php)|70.6%
