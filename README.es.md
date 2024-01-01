@@ -100,4 +100,5 @@ ID | Título | Solución | Tasa de aceptación
 2715|[Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Timeout-Cancellation/Timeout-Cancellation.js)|87.1%
 2723|[Add Two Promises](https://leetcode.com/problems/add-two-promises)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Add-Two-Promises/Add-Two-Promises.js)|90.1%
 2724|[Sort By](https://leetcode.com/problems/sort-by)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Sort-By/Sort-By.js)|81.6%
+2727|[Is Object Empty](https://leetcode.com/problems/is-object-empty)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Is-Object-Empty/Is-Object-Empty.js)|77.7%
 2816|[Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Double-a-Number-Represented-as-a-Linked-List/Double-a-Number-Represented-as-a-Linked-List.c)|47.6%
