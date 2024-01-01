@@ -46,7 +46,7 @@ ID | Título | Solución | Tasa de aceptación
 62|[Unique Paths](https://leetcode.com/problems/unique-paths)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Unique-Paths/Unique-Paths.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Unique-Paths/Unique-Paths.js)|63.6%
 64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Minimum-Path-Sum/Minimum-Path-Sum.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Minimum-Path-Sum/Minimum-Path-Sum.js)|62.8%
 66|[Plus One](https://leetcode.com/problems/plus-one)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Plus-One/Plus-One.java)|44.1%
-67|[Add Binary](https://leetcode.com/problems/add-binary)|[Python3](https://github.com/aflr/LeetCode/blob/main/Problems/Add-Binary/Add-Binary.py)|52.6%
+67|[Add Binary](https://leetcode.com/problems/add-binary)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Add-Binary/Add-Binary.java), [Python3](https://github.com/aflr/LeetCode/blob/main/Problems/Add-Binary/Add-Binary.py)|52.6%
 69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Sqrt(x)/Sqrt(x).java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Sqrt(x)/Sqrt(x).js)|37.8%
 71|[Simplify Path](https://leetcode.com/problems/simplify-path)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Simplify-Path/Simplify-Path.js)|41.4%
 94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Binary-Tree-Inorder-Traversal/Binary-Tree-Inorder-Traversal.java)|74.7%
