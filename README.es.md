@@ -78,6 +78,7 @@ ID | Título | Solución | Tasa de aceptación
 342|[Power of Four](https://leetcode.com/problems/power-of-four)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Power-of-Four/Power-of-Four.c)|47.7%
 344|[Reverse String](https://leetcode.com/problems/reverse-string)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Reverse-String/Reverse-String.js)|77.2%
 383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Ransom-Note/Ransom-Note.js)|59.3%
+405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Convert-a-Number-to-Hexadecimal/Convert-a-Number-to-Hexadecimal.js)|47.8%
 455|[Assign Cookies](https://leetcode.com/problems/assign-cookies)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Assign-Cookies/Assign-Cookies.js)|49.7%
 661|[Image Smoother](https://leetcode.com/problems/image-smoother)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Image-Smoother/Image-Smoother.js)|66.8%
 674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Longest-Continuous-Increasing-Subsequence/Longest-Continuous-Increasing-Subsequence.js)|49.7%
