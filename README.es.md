@@ -107,3 +107,4 @@ ID | Título | Solución | Tasa de aceptación
 2724|[Sort By](https://leetcode.com/problems/sort-by)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Sort-By/Sort-By.js)|81.6%
 2727|[Is Object Empty](https://leetcode.com/problems/is-object-empty)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Is-Object-Empty/Is-Object-Empty.js)|77.7%
 2816|[Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Double-a-Number-Represented-as-a-Linked-List/Double-a-Number-Represented-as-a-Linked-List.c)|47.6%
+2870|[Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Minimum-Number-of-Operations-to-Make-Array-Empty/Minimum-Number-of-Operations-to-Make-Array-Empty.java)|49.4%
