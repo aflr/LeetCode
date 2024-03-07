@@ -88,6 +88,7 @@ ID | Title | Solution | Acceptance rate
 455|[Assign Cookies](https://leetcode.com/problems/assign-cookies)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Assign-Cookies/Assign-Cookies.js)|49.7%
 661|[Image Smoother](https://leetcode.com/problems/image-smoother)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Image-Smoother/Image-Smoother.js)|66.8%
 674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Longest-Continuous-Increasing-Subsequence/Longest-Continuous-Increasing-Subsequence.js)|49.7%
+844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Backspace-String-Compare/Backspace-String-Compare.js)|49.1%
 856|[Score of Parenthesis](https://leetcode.com/problems/score-of-parentheses)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Score-of-Parenthesis/Score-of-Parenthesis.java)|64.4%
 876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Middle-of-the-Linked-List/Middle-of-the-Linked-List.c)|76.5%
 922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Sort-Array-By-Parity-II/Sort-Array-By-Parity-II.js)|70.7%
