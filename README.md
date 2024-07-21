@@ -26,6 +26,7 @@ ID | Title | Solution | Acceptance rate
 12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Integer-to-Roman/Integer-to-Roman.js)|63.8%
 13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Roman-to-Integer/Roman-to-Integer.js)|60.2%
 14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Longest-Common-Prefix/Longest-Common-Prefix.js)|42.0%
+15|[3Sum](https://leetcode.com/problems/3sum)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/3Sum/3Sum.js)|34.9%
 17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Letter-Combinations-of-a-Phone-Number/Letter-Combinations-of-a-Phone-Number.js)|59.5%
 19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Remove-Nth-Node-From-End-of-List/Remove-Nth-Node-From-End-of-List.java)|42.3%
 20|[Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Parenthesis/Valid-Parenthesis.c), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Parenthesis/Valid-Parenthesis.js)|40.2%
