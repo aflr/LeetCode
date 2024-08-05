@@ -57,7 +57,7 @@ ID | Título | Solución | Tasa de aceptación
 94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Binary-Tree-Inorder-Traversal/Binary-Tree-Inorder-Traversal.java)|74.7%
 100|[Same Tree](https://leetcode.com/problems/same-tree)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Same-Tree/Same-Tree.c)|59.4%
 104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Maximum-Depth-of-Binary-Tree/Maximum-Depth-of-Binary-Tree.c), [Java](https://github.com/aflr/LeetCode/blob/main/Problems/Maximum-Depth-of-Binary-Tree/Maximum-Depth-of-Binary-Tree.java)|74.4%
-112|[Path Sum](https://leetcode.com/problems/path-sum)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Path-Sum/Path-Sum.c)|49.6%
+112|[Path Sum](https://leetcode.com/problems/path-sum)|[C](https://github.com/aflr/LeetCode/blob/main/Problems/Path-Sum/Path-Sum.c), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Path-Sum/Path-Sum.js)|49.6%
 118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Pascals-Triangle/Pascals-Triangle.java)|72.5%
 125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Valid-Palindrome/Valid-Palindrome.js)|46.4%
 136|[Single Number](https://leetcode.com/problems/single-number)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Single-Number/Single-Number.java), [JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Single-Number/Single-Number.js)|71.5%
