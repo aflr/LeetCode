@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        if (listSize(head) < k)
+        if (listSizeLT(head, k))
             return head;
         ListNode last = head, prev = null, curr = head;
         for (int i = 0; i < k; i++) {
@@ -23,10 +23,10 @@ class Solution {
         return prev;
     }
 
-    private static int listSize(ListNode head) {
+    private static boolean listSizeLT(ListNode head, int k) {
         int i = 0;
-        for (ListNode node = head; node != null; node = node.next)
+        for (ListNode node = head; i < k && node != null; node = node.next)
             i++;
-        return i;
+        return i < k;
     }
 }
