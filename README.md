@@ -93,6 +93,7 @@ ID | Title | Solution | Acceptance rate
 414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Third-Maximum-Number/Third-Maximum-Number.js)|34.5%
 442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Find-All-Duplicates-in-an-Array/Find-All-Duplicates-in-an-Array.js)|75.5%
 455|[Assign Cookies](https://leetcode.com/problems/assign-cookies)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Assign-Cookies/Assign-Cookies.js)|49.7%
+476|[Number Complement](https://leetcode.com/problems/number-complement)|[Java](https://github.com/aflr/LeetCode/blob/main/Problems/Number-Complement/Number-Complement.java)|70.2%
 633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Sum-of-Square-Numbers/Sum-of-Square-Numbers.js)|36.2%
 661|[Image Smoother](https://leetcode.com/problems/image-smoother)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Image-Smoother/Image-Smoother.js)|66.8%
 674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|[JavaScript](https://github.com/aflr/LeetCode/blob/main/Problems/Longest-Continuous-Increasing-Subsequence/Longest-Continuous-Increasing-Subsequence.js)|49.7%
