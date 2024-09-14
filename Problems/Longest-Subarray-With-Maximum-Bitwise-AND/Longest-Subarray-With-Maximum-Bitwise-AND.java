@@ -5,8 +5,7 @@ class Solution {
             if (nums[i] > max) {
                 max = nums[i];
                 longest = count = 1;
-            }
-            else if (nums[i] == max)
+            } else if (nums[i] == max)
                 longest = Math.max(longest, ++count);
             else
                 count = 0;
